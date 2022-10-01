@@ -1,6 +1,6 @@
 # super_mario_pygame
 super mario bros game in python
-**click left arrow key on keybord in black screen if forget to remove this i use it for recoder game by gamebox so i do that. 
+**click left arrow key on keybord in black screen i forget to remove this i use it for recoder game by gamebox so i do that. 
 **  <- key on black screen don't forget   
 
 code of this game is can't be understand by others. 
